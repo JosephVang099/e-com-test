@@ -5,7 +5,7 @@ import styled from 'styled-components'
 
 const Container = styled.div`
     height: 60vh;
-    background-color: #fcf5f5;
+    background-color: #023c1b;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -14,11 +14,13 @@ const Container = styled.div`
 const Title = styled.h1`
     font-size: 70px;
     margin: 20px;
+    color: white;
 `;
 const Desc = styled.div`
     font-size: 24px;
     font-weight: 300;
     margin-bottom: 20px;
+    color: white;
 `;
 const InputContainer = styled.div`
     width: 50%;
