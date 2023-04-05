@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/http//:JosephVang099.github.io/e-com-test/static/css/main.6d5d28cc.css",
-    "main.js": "/http//:JosephVang099.github.io/e-com-test/static/js/main.0a244640.js",
-    "static/media/pineapplesoju.jpeg": "/http//:JosephVang099.github.io/e-com-test/static/media/pineapplesoju.788f05716a037cb13b21.jpeg",
-    "static/media/pomegranatesoju.jpeg": "/http//:JosephVang099.github.io/e-com-test/static/media/pomegranatesoju.0ac528c4265528ba1438.jpeg",
-    "static/media/citronsoju.jpeg": "/http//:JosephVang099.github.io/e-com-test/static/media/citronsoju.c48fd3fa2cac69534666.jpeg",
-    "static/media/lycheesoju.jpeg": "/http//:JosephVang099.github.io/e-com-test/static/media/lycheesoju.61708cbd8918a6555873.jpeg",
-    "static/media/mangosoju.jpeg": "/http//:JosephVang099.github.io/e-com-test/static/media/mangosoju.ea34e883ca714e639c25.jpeg",
-    "static/media/honeysoju.jpeg": "/http//:JosephVang099.github.io/e-com-test/static/media/honeysoju.15a7e0b7892e4ae85e80.jpeg",
-    "static/media/watermelonsoju.jpeg": "/http//:JosephVang099.github.io/e-com-test/static/media/watermelonsoju.3c3a18b63ff86d356a60.jpeg",
-    "static/media/americanosoju.jpeg": "/http//:JosephVang099.github.io/e-com-test/static/media/americanosoju.b4087a90bcdca6a695ab.jpeg",
-    "static/media/grapesoju.jpeg": "/http//:JosephVang099.github.io/e-com-test/static/media/grapesoju.3e9cfe790883b0dc96e8.jpeg",
-    "static/media/peachysoju.jpeg": "/http//:JosephVang099.github.io/e-com-test/static/media/peachysoju.91fb7e5eefc8af437959.jpeg",
-    "static/media/originalsoju.webp": "/http//:JosephVang099.github.io/e-com-test/static/media/originalsoju.d870db56669a7de34b36.webp",
-    "static/media/applesoju.jpeg": "/http//:JosephVang099.github.io/e-com-test/static/media/applesoju.d869dcd87db12953f153.jpeg",
-    "index.html": "/http//:JosephVang099.github.io/e-com-test/index.html",
-    "main.6d5d28cc.css.map": "/http//:JosephVang099.github.io/e-com-test/static/css/main.6d5d28cc.css.map",
-    "main.0a244640.js.map": "/http//:JosephVang099.github.io/e-com-test/static/js/main.0a244640.js.map"
+    "main.css": "/https//:JosephVang099.github.io/e-com-test/static/css/main.6d5d28cc.css",
+    "main.js": "/https//:JosephVang099.github.io/e-com-test/static/js/main.de6be542.js",
+    "static/media/pineapplesoju.jpeg": "/https//:JosephVang099.github.io/e-com-test/static/media/pineapplesoju.788f05716a037cb13b21.jpeg",
+    "static/media/pomegranatesoju.jpeg": "/https//:JosephVang099.github.io/e-com-test/static/media/pomegranatesoju.0ac528c4265528ba1438.jpeg",
+    "static/media/citronsoju.jpeg": "/https//:JosephVang099.github.io/e-com-test/static/media/citronsoju.c48fd3fa2cac69534666.jpeg",
+    "static/media/lycheesoju.jpeg": "/https//:JosephVang099.github.io/e-com-test/static/media/lycheesoju.61708cbd8918a6555873.jpeg",
+    "static/media/mangosoju.jpeg": "/https//:JosephVang099.github.io/e-com-test/static/media/mangosoju.ea34e883ca714e639c25.jpeg",
+    "static/media/honeysoju.jpeg": "/https//:JosephVang099.github.io/e-com-test/static/media/honeysoju.15a7e0b7892e4ae85e80.jpeg",
+    "static/media/watermelonsoju.jpeg": "/https//:JosephVang099.github.io/e-com-test/static/media/watermelonsoju.3c3a18b63ff86d356a60.jpeg",
+    "static/media/americanosoju.jpeg": "/https//:JosephVang099.github.io/e-com-test/static/media/americanosoju.b4087a90bcdca6a695ab.jpeg",
+    "static/media/grapesoju.jpeg": "/https//:JosephVang099.github.io/e-com-test/static/media/grapesoju.3e9cfe790883b0dc96e8.jpeg",
+    "static/media/peachysoju.jpeg": "/https//:JosephVang099.github.io/e-com-test/static/media/peachysoju.91fb7e5eefc8af437959.jpeg",
+    "static/media/originalsoju.webp": "/https//:JosephVang099.github.io/e-com-test/static/media/originalsoju.d870db56669a7de34b36.webp",
+    "static/media/applesoju.jpeg": "/https//:JosephVang099.github.io/e-com-test/static/media/applesoju.d869dcd87db12953f153.jpeg",
+    "index.html": "/https//:JosephVang099.github.io/e-com-test/index.html",
+    "main.6d5d28cc.css.map": "/https//:JosephVang099.github.io/e-com-test/static/css/main.6d5d28cc.css.map",
+    "main.de6be542.js.map": "/https//:JosephVang099.github.io/e-com-test/static/js/main.de6be542.js.map"
   },
   "entrypoints": [
     "static/css/main.6d5d28cc.css",
-    "static/js/main.0a244640.js"
+    "static/js/main.de6be542.js"
   ]
 }
