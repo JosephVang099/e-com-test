@@ -134,7 +134,7 @@ const Filter = () => {
         setProducts(ProductsArray.map((product) => ({ ...product, title: product.productName, image: product.productImage })));
     }, []);
     const [minPrice, setMinPrice] = useState(0);
-    const [maxPrice, setMaxPrice] = useState(500);
+    const [maxPrice, setMaxPrice] = useState(15);
     useEffect(() => {
         const filtered = products.filter((product) => {
             const titleMatch = product.productName.toLowerCase().includes(search.toLowerCase());
