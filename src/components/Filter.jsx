@@ -177,7 +177,7 @@ const Filter = () => {
                                 <h2>{product.title}</h2>
                                 <p>{product.description}</p>
                                 <span className="product-price">${product.price}</span>
-                                <button>Filter by Price</button>
+                                <button>ADD TO CART</button>
                             </div>
                         </div>
                     ))
