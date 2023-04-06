@@ -11,10 +11,10 @@ const db = mysql.createConnection({
   host: "127.0.0.1",
   user: 'root',
   password: "password",
-  database: 'products'
+  database: 'ecommerceDB'
   ,});
 
-    db.connect(err =>{
+    ecommerceDB.connect(err =>{
     if(err){
         console.log(err.message)
         return;
@@ -25,7 +25,7 @@ const db = mysql.createConnection({
 
 app.get("/products", (req, res) => {
   const q = "SELECT * FROM products";
-  db.query(q, (err, data) => {
+  ecommerceDB.query(q, (err, data) => {
     if (err) {
       console.log(err);
       return res.json(err);
@@ -35,12 +35,11 @@ app.get("/products", (req, res) => {
 });
 
 app.post("/products", (req, res) => {
-  const q = "INSERT INTO products(`product_title`, `product_description`, `product_price`, `product_image`) VALUES (?)";
+  const q = "INSERT INTO products(`product_title`, `product_price`, `product_image`) VALUES (?)";
 
   const values = [
     req.body.product_title,
     req.body.product_price,
-    req.body.product_description,
     req.body.product_image,
   ];
 
@@ -49,6 +48,6 @@ app.post("/products", (req, res) => {
     return res.json(data);
   });
 });
-app.listen(8800, () => {
+app.listen(3000, () => {
   console.log('Server is up on port 8800.')
 })
