@@ -20,6 +20,18 @@ const Wrapper = styled.div`
     width: 40%;
     padding: 20px;
     background-color: white;
+
+    @media screen and (max-width: 825px) {
+        width: 80%;
+    }
+    
+    @media screen and (max-width: 480px) {
+        width: 80%;
+    }
+    
+    @media screen and (max-width: 320px) {
+        width: 90%;
+    }
 `;
 const Title = styled.h1`
     font-size: 24px;
@@ -34,6 +46,10 @@ const Input = styled.input`
     min-width: 40%;
     margin: 20px 10px 0px 0px;
     padding: 10px;
+
+    @media screen and (min-width: 320px) {
+        min-width: 30%;
+    }
 `;
 const Agreement = styled.span`
   font-size: 12px;
@@ -46,6 +62,10 @@ const Button = styled.button`
     background-color: teal;
     color: white;
     cursor: pointer;
+
+    @media screen and (min-width: 320px) and (max-width: 825px) {
+        width: 100%;
+    }
 `;
 
 
