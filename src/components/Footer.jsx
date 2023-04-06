@@ -61,15 +61,20 @@ const Footer = () => {
             <SocialContainer>
 
                 <SocialIcon color='3B5999'>
-                    <Facebook />
+                   <a href='https://www.facebook.com/'> <Facebook />
+                   </a>
                 </SocialIcon>
 
                 <SocialIcon color='E4405F'>
+                    <a href='https://www.instagram.com/'>
                     <Instagram />
+                    </a>
                 </SocialIcon>
 
                 <SocialIcon color='55ACEE'>
+                    <a href='https://twitter.com/?lang=en'>
                     <Twitter />
+                    </a>
                 </SocialIcon>
 
             </SocialContainer>
