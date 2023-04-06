@@ -9,6 +9,16 @@ const Container = styled.div`
     justify-content: center;
     font-size: 14px;
     font-weight: bolder;
+
+
+
+    @media screen and (min-width: 375px){
+    height: 20px;
+    font-size: 12px;
+    * {
+    overflow-x: hidden;
+  }
+  }
 `;
 
 const Announcement = () => {
